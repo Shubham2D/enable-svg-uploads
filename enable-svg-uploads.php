@@ -4,6 +4,7 @@
  * Description: Allows administrators to upload SVG and SVGZ files to WordPress.
  * Version: 1.0
  * Author: Shubham Sawarkar
+ * Author URI: https://github.com/Shubham2D
  * License: MIT
  */
 
